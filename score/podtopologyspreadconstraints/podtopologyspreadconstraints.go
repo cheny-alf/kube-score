@@ -1,9 +1,9 @@
 package podtopologyspreadconstraints
 
 import (
-	ks "github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/score/checks"
-	"github.com/zegl/kube-score/scorecard"
+	ks "github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/score/checks"
+	"github.com/cheny-alf/kube-score/scorecard"
 )
 
 func Register(allChecks *checks.Checks) {

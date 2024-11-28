@@ -5,12 +5,12 @@ import (
 	"io"
 	"strings"
 
-	"github.com/zegl/kube-score/config"
-	"github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/parser"
-	"github.com/zegl/kube-score/score"
-	"github.com/zegl/kube-score/score/checks"
-	"github.com/zegl/kube-score/scorecard"
+	"github.com/cheny-alf/kube-score/config"
+	"github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/parser"
+	"github.com/cheny-alf/kube-score/score"
+	"github.com/cheny-alf/kube-score/score/checks"
+	"github.com/cheny-alf/kube-score/scorecard"
 
 	v1 "k8s.io/api/apps/v1"
 )

@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/sarif"
-	"github.com/zegl/kube-score/scorecard"
+	"github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/sarif"
+	"github.com/cheny-alf/kube-score/scorecard"
 )
 
 func Output(input *scorecard.Scorecard) io.Reader {

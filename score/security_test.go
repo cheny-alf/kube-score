@@ -3,10 +3,10 @@ package score
 import (
 	"testing"
 
+	"github.com/cheny-alf/kube-score/config"
+	ks "github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/scorecard"
 	"github.com/stretchr/testify/assert"
-	"github.com/zegl/kube-score/config"
-	ks "github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/scorecard"
 )
 
 func TestContainerSeccompMissing(t *testing.T) {

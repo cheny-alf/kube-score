@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	ks "github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/score/checks"
-	"github.com/zegl/kube-score/scorecard"
+	ks "github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/score/checks"
+	"github.com/cheny-alf/kube-score/scorecard"
 	corev1 "k8s.io/api/core/v1"
 )
 

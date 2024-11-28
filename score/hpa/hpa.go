@@ -2,9 +2,9 @@ package hpa
 
 import (
 	"fmt"
-	"github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/score/checks"
-	"github.com/zegl/kube-score/scorecard"
+	"github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/score/checks"
+	"github.com/cheny-alf/kube-score/scorecard"
 	"k8s.io/utils/ptr"
 )
 

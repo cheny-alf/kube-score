@@ -1,4 +1,4 @@
-module github.com/zegl/kube-score
+module github.com/cheny-alf/kube-score
 
 require (
 	github.com/buildkite/terminal-to-html v3.2.0+incompatible

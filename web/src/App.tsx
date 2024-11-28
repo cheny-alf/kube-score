@@ -13,9 +13,9 @@ function App() {
 
         <div style={{ display: 'flex', gap: 16, alignItems: "center", fontSize: 16, flex: 1, flexShrink: 0 }}>
           <div style={{ flex: 1 }}></div>
-          <a href="https://github.com/zegl/kube-score">GitHub</a>
-          <a href="https://github.com/zegl/kube-score">README</a>
-          <a href="https://github.com/zegl/kube-score/blob/master/README_CHECKS.md">Docs</a>
+          <a href="https://github.com/cheny-alf/kube-score">GitHub</a>
+          <a href="https://github.com/cheny-alf/kube-score">README</a>
+          <a href="https://github.com/cheny-alf/kube-score/blob/master/README_CHECKS.md">Docs</a>
         </div>
 
       </div>
@@ -26,9 +26,9 @@ function App() {
           output is
           a list of
           recommendations of what you can improve to make your application more secure and resilient.</p>
-        <p><code>kube-score</code> is <a href="https://github.com/zegl/kube-score">open-source and available under the
+        <p><code>kube-score</code> is <a href="https://github.com/cheny-alf/kube-score">open-source and available under the
           MIT-license</a>. For more information about how to use kube-score, see <a
-            href="https://github.com/zegl/kube-score">zegl/kube-score</a> on GitHub.
+            href="https://github.com/cheny-alf/kube-score">zegl/kube-score</a> on GitHub.
           Use this website to easily test kube-score, just paste your object definition YAML or JSON in the box below.
         </p>
 

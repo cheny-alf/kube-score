@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	ks "github.com/zegl/kube-score/domain"
+	ks "github.com/cheny-alf/kube-score/domain"
 
 	"github.com/stretchr/testify/assert"
 )

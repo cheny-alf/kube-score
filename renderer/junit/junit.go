@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"io"
 
+	"github.com/cheny-alf/kube-score/scorecard"
 	"github.com/jstemmer/go-junit-report/v2/junit"
-	"github.com/zegl/kube-score/scorecard"
 )
 
 // JUnit XML output

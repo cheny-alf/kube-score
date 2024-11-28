@@ -3,7 +3,7 @@ package score
 import (
 	"testing"
 
-	"github.com/zegl/kube-score/scorecard"
+	"github.com/cheny-alf/kube-score/scorecard"
 )
 
 func TestServiceTargetsPodDeployment(t *testing.T) {

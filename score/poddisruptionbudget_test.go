@@ -3,9 +3,9 @@ package score
 import (
 	"testing"
 
+	"github.com/cheny-alf/kube-score/scorecard"
 	"github.com/google/go-cmp/cmp"
 	"github.com/stretchr/testify/assert"
-	"github.com/zegl/kube-score/scorecard"
 )
 
 func TestStatefulSetPodDisruptionBudgetMatches(t *testing.T) {

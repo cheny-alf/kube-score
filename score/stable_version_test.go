@@ -3,9 +3,9 @@ package score
 import (
 	"testing"
 
-	"github.com/zegl/kube-score/config"
-	ks "github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/scorecard"
+	"github.com/cheny-alf/kube-score/config"
+	ks "github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/scorecard"
 )
 
 func TestStatefulSetAppsv1beta1(t *testing.T) {

@@ -7,8 +7,8 @@ import (
 	v1 "k8s.io/api/autoscaling/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"github.com/zegl/kube-score/domain"
-	"github.com/zegl/kube-score/scorecard"
+	"github.com/cheny-alf/kube-score/domain"
+	"github.com/cheny-alf/kube-score/scorecard"
 )
 
 func TestHpaHasTarget(t *testing.T) {
